@@ -1,0 +1,37 @@
+# Stickerpeel.com – Peel-to-Reveal Content Platform
+
+Stickerpeel is a web platform where content creators can upload images or videos, cover key areas with stickers, and monetize access through a gamified “peel-to-reveal” experience. Fans pay to remove stickers or unlock full content, with one-time view settings and digital ownership elements creating real value for both creators and fans.
+
+## 🔥 Key Features
+
+- Upload and hide content with customizable stickers
+- Pay-per-peel and full unlock monetization options
+- One-time or limited-time content reveals
+- Tips, subscriptions, and content ownership
+- Gamified user experience
+- Creator tools dashboard with earnings tracking
+
+## 🚀 Live Demo
+
+Coming soon at [https://stickerpeel.com](https://stickerpeel.com)
+
+## 🛠 Built With
+
+- HTML5 / CSS3 (Landing page MVP)
+- Visual Studio Code
+- Git + GitHub Pages
+- Namecheap DNS
+
+## 📂 Folder Structure
+## 📡 Deployment
+
+This site is deployed using **GitHub Pages** and mapped to a custom domain (`stickerpeel.com`) via Namecheap DNS settings.
+
+## 🙌 About
+
+Created and owned by [Jesse Gibson](mailto:jesse.gibson166@hotmail.com), this project is part of a vision to reshape how creators monetize curiosity and exclusive content.
+
+---
+
+> “Peel to Reveal. Pay to Experience.” – The future of digital exclusivity starts here.
+
